@@ -1,10 +1,12 @@
-#Personal Project
+# Personal Project
 
 1. Header Section
 2. Banner Section
 
-#Website link:
+# Website link:
+
 https://azizuits.github.io/projecttest/
 
-#ScreenShot:
+# ScreenShot:
+
 <img src="person.jpg">
